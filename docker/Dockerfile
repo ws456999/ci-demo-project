@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY build /usr/src/app/
+COPY ./build /usr/src/app/
