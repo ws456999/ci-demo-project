@@ -1,8 +1,8 @@
 #! /bin/bash
 
-rm -rf ./build
+sudo rm -rf ./build
 
-cp -r ./../build ./
+sudo cp -r ./../build ./
 
 docker container stop react-ts
 
