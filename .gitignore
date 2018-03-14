@@ -8,7 +8,7 @@
 
 # production
 
-/docker/build
+/docker/build/
 
 # misc
 .DS_Store
