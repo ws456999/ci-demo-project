@@ -9,4 +9,4 @@ services:
     ports:
      - "4200:4200"
     volumes:
-     - "/39/ci-demo-project/docker/volume/nginx/conf.d:/etc/nginx/conf.d:rw"
+     - "/39/ci-demo-project/docker/volume/nginx-t/conf.d:/etc/nginx/conf.d:rw"
