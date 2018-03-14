@@ -7,4 +7,4 @@ services:
     ports:
      - "4200:4200"
     volumes:
-     - "/Users/a39/Desktop/other/react-ts/docker/nginx/conf.d:/etc/nginx/conf.d:rw"
+     - "/39/ci-demo-project/docker/nginx/conf.d:/etc/nginx/conf.d:rw"
